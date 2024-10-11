@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1;
+}
+footer {
+    background-color: #343a40; /* color de fondo del footer */
+    color: white; /* color del texto */
+}
